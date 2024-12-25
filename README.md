@@ -15,6 +15,7 @@ Soy un **desarrollador mobile** orientado al FrontEnd y también dibujo y **prog
 
 - Android XML
 - Jetpack Compose
+- Flask
 - Godot
 - Git
 - GitHub
