@@ -7,8 +7,8 @@ Soy un **desarrollador mobile** orientado al FrontEnd y también dibujo y **prog
 ## Habilidades
 
 - Python
-- Java (Android)
-- Kotlin
+- Kotlin (Android)
+- C#
 - GDScript
 
 ## Frameworks y Herramientas
@@ -16,6 +16,7 @@ Soy un **desarrollador mobile** orientado al FrontEnd y también dibujo y **prog
 - Android XML
 - Jetpack Compose
 - Flask
+- .NET MAUI
 - Godot
 - Git
 - GitHub
